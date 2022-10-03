@@ -9,7 +9,7 @@
                 <span class="text-primary">{{ .Site.Params.lastName }}</span>
               </h1>
               <div class="subheading mb-5">{{ .Site.Params.address }} ·
-                <a href="mailto:{{ substr .Site.Params.email 0 5}}-remove-{{ substr .Site.Params.email 5 }}">{{ substr .Site.Params.email 0 5}}<span style="display:none">-remove-</span>{{ substr .Site.Params.email 5 }}</a>
+                <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
               </div>
 
             </div>
@@ -21,7 +21,7 @@
         </div>
         <div>
           {{ .Content }}
-          <h3>Certifications</h3>
+          <!-- <h3>Certifications</h3>
           <ul class="list-inline list-social-icons mb-0">
             {{ range .Site.Data.certifications }}
                 <li class="list-inline-item">
@@ -30,7 +30,7 @@
                   </a>
                 </li>
             {{ end }}
-          </ul>
+          </ul>-->
           <h3>Socialization</h3>
           <ul class="list-inline list-social-icons mb-0">
             {{ range .Site.Params.handles }}

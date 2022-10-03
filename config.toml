@@ -29,16 +29,17 @@ showSkills = false
 #trackerID = "XX-123446-01"
 
 [[params.handles]]
+link = "https://arches.liris.cnrs.fr"
+name = "Arches team"
+icon = ""
+
+[[params.handles]]
 link = "https://www.linkedin.com/in/simon-perche/"
 name = "LinkedIn"
 
 [[params.handles]]
 link = "https://github.com/SimonPerche"
 name = "GitHub"
-
-[[params.handles]]
-link = "https://arches.liris.cnrs.fr"
-name = "Arches team"
 
 [outputs]
 home = ["HTML", "JSON"]
