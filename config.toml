@@ -10,7 +10,7 @@ enableGitInfo = false
 [params]
 address = "Lyon, France"
 email = "simon.perche@liris.cnrs.fr"
-favicon = "/favicon.ico"
+favicon = ""
 firstName = "Simon"
 lastName = "Perche"
 #phone = "1-555-555-1234"
