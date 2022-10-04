@@ -2,18 +2,18 @@
     {
         "role":"Ph.D. Student",
         "company":"[LIRIS](https://liris.cnrs.fr/)",
-        "summary":"",
+        "summary":"Amplification and inverse procedural modeling.",
         "range":"October 2021 - Present"
     },
     {
         "role":"Final year internship",
-        "company":"[Imagerie et Vision Artificielle (ImViA)](https://imvia.u-bourgogne.fr/)",
+        "company":"[ImViA laboratory](https://imvia.u-bourgogne.fr/)",
         "summary":"Physiological signals analysis and processing \n- Estimation of heart rate remotely using Deep Learning (PyTorch)",
         "range":"February 2021 - July 2021"
     },
     {
         "role":"Engineer internship",
-        "company":"[Imagerie et Vision Artificielle (ImViA)](https://imvia.u-bourgogne.fr/)",
+        "company":"[ImViA laboratory](https://imvia.u-bourgogne.fr/)",
         "summary":"Physiological signals analysis and processing \n- Physiological signals processing to determine stress state \n- Respiratory rate state of the art review \n- Two months business trip to Tokyo",
         "range":"September 2019 - February 2020"
     }
