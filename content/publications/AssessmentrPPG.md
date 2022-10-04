@@ -5,7 +5,7 @@ pubtype: "Article"
 featured: true
 description: "D Luguern, S Perche, Y Benezeth, V Moser, L Dunbar, F Braun, A Lemkaddem, K Nakamura, R Gomez, J Dubois"
 tags: ["Heart rate","Photoplethysmography"]
-image: "/img/organicdevops.webp"
+image: ""
 link: "https://openaccess.thecvf.com/content_CVPRW_2020/html/w19/Luguern_An_Assessment_of_Algorithms_to_Estimate_Respiratory_Rate_From_the_CVPRW_2020_paper.html"
 fact: ""
 weight: 400

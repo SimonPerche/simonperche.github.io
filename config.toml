@@ -31,15 +31,17 @@ showSkills = false
 [[params.handles]]
 link = "https://arches.liris.cnrs.fr"
 name = "Arches team"
-icon = ""
+icon = "archway"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/simon-perche/"
 name = "LinkedIn"
+isbrand = true
 
 [[params.handles]]
 link = "https://github.com/SimonPerche"
 name = "GitHub"
+isbrand = true
 
 [outputs]
 home = ["HTML", "JSON"]
