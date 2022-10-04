@@ -1,20 +1,20 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Ph.D. Student",
+        "company":"[LIRIS](https://liris.cnrs.fr/)",
+        "summary":"",
+        "range":"October 2021 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Final year internship",
+        "company":"[Imagerie et Vision Artificielle (ImViA)](https://imvia.u-bourgogne.fr/)",
+        "summary":"Physiological signals analysis and processing \n- Estimation of heart rate remotely using Deep Learning (PyTorch)",
+        "range":"February 2021 - July 2021"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Engineer internship",
+        "company":"[Imagerie et Vision Artificielle (ImViA)](https://imvia.u-bourgogne.fr/)",
+        "summary":"Physiological signals analysis and processing \n- Physiological signals processing to determine stress state \n- Respiratory rate state of the art review \n- Two months business trip to Tokyo",
+        "range":"September 2019 - February 2020"
     }
 ]

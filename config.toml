@@ -28,6 +28,12 @@ showSkills = false
 #[params.google.analytics]
 #trackerID = "XX-123446-01"
 
+
+[[params.handles]]
+link = "https://drive.google.com/file/d/1ja1so6hBTipcb_S6GlbR-tgE4Amxf2KB/view?usp=sharing"
+name = "Resume"
+icon = "file"
+
 [[params.handles]]
 link = "https://arches.liris.cnrs.fr"
 name = "Arches team"

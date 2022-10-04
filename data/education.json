@@ -1,15 +1,20 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"[University of Technology of Belfort-Montbéliard](https://www.utbm.fr/)",
+        "degree":"Engineer’s degree",
+        "major":"Computer science - Image, Interaction and Virtual Reality.",
+        "range":"2018 - 2021"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"IUT Informatique of Dijon",
+        "degree":"Two-year technical degree",
+        "major":"Computer science",
+        "range":"2016 - 2018"
+    },
+	{
+        "school":"Lycée Pontus de Tyard",
+        "degree":"Baccalauréat (High school degree)",
+        "major":"Speciality in sciences with computer science option.",
+        "range":"2015 - 2018"
     }
 ]
