@@ -13,7 +13,8 @@ sitemap:
   priority : 0.8
 ---
 
-Duncan Luguern, **Simon Perche**, Yannick Benezeth, Virginie Moser, L Andrea Dunbar, Fabian Braun, Alia Lemkaddem, Keisuke Nakamura, Randy Gomez, Julien Dubois
+Duncan Luguern, **Simon Perche**, Yannick Benezeth, Virginie Moser, L Andrea Dunbar, Fabian Braun, Alia Lemkaddem, Keisuke Nakamura, Randy Gomez, Julien Dubois \
+Published in : [IEEE CVPR](https://cvpr2020.thecvf.com/)
 
 ### Abstract
 The respiratory rate is important information in the healthcare environment. Consequently, research is done to develop a device that could measure the respiratory rate continuously with non-contact devices. Various methods were tried, such as radio-based, thermal imaging or remote photoplethysmography (rPPG). 
