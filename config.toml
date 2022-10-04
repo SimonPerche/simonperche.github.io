@@ -32,12 +32,17 @@ showSkills = false
 [[params.handles]]
 link = "https://drive.google.com/file/d/1ja1so6hBTipcb_S6GlbR-tgE4Amxf2KB/view?usp=sharing"
 name = "Resume"
-icon = "file"
+icon = "id-card"
 
 [[params.handles]]
 link = "https://arches.liris.cnrs.fr"
 name = "Arches team"
 icon = "archway"
+
+[[params.handles]]
+link = "https://projet.liris.cnrs.fr/ampli/"
+name = "Ampli project"
+icon = "mountain"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/simon-perche/"
